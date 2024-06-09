@@ -1,7 +1,7 @@
 Irish Megaliths Map
 
 <p align="center">
-  <img width="1024" src="https://github.com/kerbstone52/IrishMegalithsMap/blob/master/Irish Megaliths.png">
+  <img width="1024" src="[https://github.com/kerbstone52/IrishMegalithsMap/blob/main/Irishh%20Megaliths.png]">
 </p>
 
 Mapped and categorised sites - with a focus on the Irish neolithic and bronze ages.
